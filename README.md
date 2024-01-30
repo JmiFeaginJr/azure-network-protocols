@@ -40,7 +40,7 @@ We are tasked with establishing file shares featuring tailored permissions to en
 <img src="https://i.imgur.com/PULY2nW.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Each user will authenticate their credentials upon login to access files within designated directories. Authorized users will possess privileges to create new folders, peruse specified documents, and generate new text documents within the system.
 </p>
 <br />
 
@@ -48,6 +48,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/6ZlwTj5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We will establish a security group and meticulously assign permissions tailored to individual user roles and responsibilities. Subsequently, we will conduct comprehensive access testing with diverse user profiles to validate the efficacy of the permissions structure. Access privileges to specific files will be dynamically determined based on users' respective positions within the designated security group.
 </p>
 <br />
